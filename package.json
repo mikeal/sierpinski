@@ -1,0 +1,31 @@
+{
+  "name": "sierpinski",
+  "version": "0.0.0",
+  "description": "Sierpinski triangles using canvas.",
+  "main": "index.js",
+  "devDependencies": {
+    "keycode": "^0.3.0",
+    "beefy": "^1.1.0",
+    "browserify": "^3.41.0",
+    "uglify-js": "^2.4.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeal/sierpinski"
+  },
+  "keywords": [
+    "art",
+    "chaos",
+    "fractal",
+    "triangle"
+  ],
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeal/sierpinski/issues"
+  },
+  "homepage": "https://github.com/mikeal/sierpinski"
+}
