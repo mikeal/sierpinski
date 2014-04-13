@@ -1,6 +1,6 @@
 {
   "name": "sierpinski",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sierpinski triangles using canvas.",
   "main": "index.js",
   "devDependencies": {
