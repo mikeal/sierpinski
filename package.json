@@ -4,10 +4,10 @@
   "description": "Sierpinski triangles using canvas.",
   "main": "index.js",
   "devDependencies": {
-    "keycode": "^0.3.0",
-    "beefy": "^1.1.0",
-    "browserify": "^3.41.0",
-    "uglify-js": "^2.4.13"
+    "keycode": "^2.1.9",
+    "beefy": "^2.1.8",
+    "browserify": "^14.4.0",
+    "uglify-js": "^3.0.24"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
