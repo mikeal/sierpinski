@@ -1,5 +1,7 @@
 ## sierpinski -- cause triangles!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/sierpinski.svg)](https://greenkeeper.io/)
+
 ![Sierpinski Triange](http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Animated_construction_of_Sierpinski_Triangle.gif/250px-Animated_construction_of_Sierpinski_Triangle.gif)
 
 ```javascript
